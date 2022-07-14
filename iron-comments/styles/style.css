@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+    padding-top: 100px;
+    width: 100vw;    
+    background-color: rgb(25, 33, 41);
+    font-weight: bold;
+    
+    
+}
+form{
+    width: 250px;
+    border: solid rgb(67, 163, 230);
+    border-radius: 3px;
+}
+
+#form-container {
+    margin: auto;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 21px;
+    
+}
+
+#form-container input{
+    border: 1px solid rgb(67, 163, 230);
+    margin-top: 2px;
+    margin-bottom: 2px;
+    
+}
+
+#form-container textarea{
+    border: 1px solid rgb(67, 163, 230);
+    
+}
+
+button{
+    background:  rgb(67, 163, 230);
+    border: 1px solid rgb(67, 163, 230);
+    color: rgb(255, 255, 255);
+    border-radius: 9px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 4px;
+    margin-top: 2px;
+
+}
+
